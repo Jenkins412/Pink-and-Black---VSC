@@ -17,7 +17,7 @@ nav {
 }
 
 .logo {
-    color: aliceblue;
+    color: black;
     font-size: 1.5rem;
     font-weight: bold;
     font-style: italic;
@@ -31,7 +31,7 @@ nav a {
 }
 
 .hero {
-    background: #fdcc04;
+    background: white;
 }
 
 .hero-container {
